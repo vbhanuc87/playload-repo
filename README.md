@@ -6,5 +6,6 @@ cd playload
 
 npm install
 
-npm run start
+# To start the server, issue below command and follow on-screen instructions (for URL).
+npm run dev
 
